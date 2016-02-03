@@ -20,6 +20,6 @@
         <item>Demo Webcam (Wunder)</item>
     </string-array>
 
-    <string name="wunderground_key">your_key</string>
-    <string name="forecastio_key">your_key</string>
+    <string name="wunderground_key">57f9364fe51030f9</string>
+    <string name="forecastio_key">c4415c8a50bd952834501883505f8447</string>
 </resources>
